@@ -1,6 +1,8 @@
 
 # UniCycle README
 
+## This project was done as a part of User Experience and Web Design Course-work, and have been uploaded here from private university github profile.
+
 ## Table of Contents
 1. [About UniCycle](#about-unicycle)
 2. [Key Features](#key-features)
