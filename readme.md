@@ -91,7 +91,7 @@ To set up UniCycle locally, follow these steps:
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/UniCycle.git
+git clone https://github.com/akhilk2802/UniCycle.git
 cd UniCycle
 ```
 
