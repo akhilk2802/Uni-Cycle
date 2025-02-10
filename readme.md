@@ -1,9 +1,11 @@
+# UniCycle - Sustainable Student Marketplace
 
-# UniCycle README
+## 📌 Overview
+UniCycle is a **user-friendly platform** designed for **students** to **buy and sell used products** securely and sustainably. Built as part of a **User Experience and Web Design coursework**, it provides an intuitive interface for seamless transactions within university communities. The platform promotes **eco-friendly commerce**, helping students **save money** and **reduce waste**.
 
-## This project was done as a part of User Experience and Web Design Course-work, and have been uploaded here from private university github profile.
+---
 
-## Table of Contents
+## 📂 Table of Contents
 1. [About UniCycle](#about-unicycle)
 2. [Key Features](#key-features)
 3. [Getting Started](#getting-started)
@@ -11,48 +13,107 @@
 5. [Benefits](#benefits)
 6. [How to Run the Project](#how-to-run-the-project)
 
-## About UniCycle
-UniCycle is a user-friendly platform designed for students to buy and sell used products securely and sustainably. Our intuitive interface, secure transactions, and eco-friendly approach make it an ideal choice for the student community looking to save money and contribute to a greener planet.
+---
 
-### Key Features
-- **User-Friendly:** Browse, list, and manage products effortlessly with our intuitive interface.
-- **Secure Transactions:** Conduct your transactions securely within the platform to ensure safety.
-- **Eco-Friendly:** Actively contribute to a more sustainable world by buying and selling used products.
+## 🛍️ About UniCycle
+UniCycle is a **secure and sustainable** marketplace tailored for students. It allows users to **buy and sell pre-owned products**, contributing to a **greener planet** while saving money. With **secure transactions** and **university-based verification**, it ensures a **safe and convenient** buying and selling experience.
 
-## Getting Started
-To get started with UniCycle, follow these simple steps:
-1. **Sign Up:** Create your UniCycle account using your university email.
-2. **Verify Your University:** Select your university to connect with your local student community.
-3. **Browse Listings:** Explore a wide variety of products available for sale.
-4. **List Your Products:** Have items to sell? List them with detailed descriptions, images, and set your prices.
+---
 
-## How to Use UniCycle
-- **For Buyers:** Browse listings to find products you need at affordable prices.
-- **For Sellers:** List your products to reach a wide student audience looking for what you offer.
+## 🚀 Key Features
+- **🌟 User-Friendly**: Effortlessly browse, list, and manage products with an intuitive UI.
+- **🔒 Secure Transactions**: Conduct transactions within the platform safely.
+- **♻️ Eco-Friendly**: Promote sustainability by reusing and recycling products.
 
-## Benefits
-UniCycle offers several benefits, including:
-1. **Save Money:** Purchase used products at significantly lower costs.
-2. **Reduce Waste:** Play a role in reducing waste by giving products a second life.
-3. **Support Your Community:** Engage and connect with fellow students in your area.
-4. **Convenient and Safe:** Enjoy a platform that ensures secure and easy transactions.
-5. **Greener Planet:** Be part of the movement towards a more sustainable future.
+---
 
-## How to Run the Project
-To run UniCycle locally, follow these steps:
-1. Clone the repository.
-2. Open the project in Visual Studio Code (VSCode).
+## 🏁 Getting Started
+Follow these steps to get started with UniCycle:
 
-   **For the Frontend:**
-   ```
-   cd frontend
-   npm install
-   npm start
-   ```
+1️⃣ **Sign Up**: Create an account using your university email.
+2️⃣ **Verify Your University**: Select your university to connect with your local student community.
+3️⃣ **Browse Listings**: Discover a variety of pre-owned products available for sale.
+4️⃣ **List Your Products**: Upload items with descriptions, images, and set prices.
 
-   **For the Backend:**
-   ```
-   cd backend
-   npm install
-   npm start
-   ```
+---
+
+## 🛒 How to Use UniCycle
+- **For Buyers**: Browse listings and purchase products at student-friendly prices.
+- **For Sellers**: List products to reach students looking for affordable goods.
+
+---
+
+## 🎯 Benefits
+- **💰 Save Money**: Purchase pre-owned products at lower costs.
+- **♻️ Reduce Waste**: Give used products a second life and reduce environmental impact.
+- **🤝 Support Your Community**: Engage with fellow students in a trusted marketplace.
+- **🔒 Secure & Convenient**: Experience hassle-free transactions within a safe platform.
+- **🌱 Greener Planet**: Contribute to sustainability efforts by reducing product waste.
+
+---
+
+## Folder Structure
+
+```plaintext
+.
+├── backend
+│   ├── config
+│   ├── controller
+│   ├── data
+│   ├── models
+│   └── routes
+└── frontend
+    ├── build
+    │   └── static
+    │       ├── css
+    │       ├── js
+    │       └── media
+    ├── public
+    └── src
+        ├── Data
+        ├── components
+        │   ├── Login
+        │   ├── Main
+        │   └── Singup
+        ├── images
+        ├── redux
+        │   ├── actions
+        │   ├── constants
+        │   └── reducers
+        ├── screens
+        └── styles
+```
+
+---
+
+## 💻 How to Run the Project
+To set up UniCycle locally, follow these steps:
+
+### **1️⃣ Clone the Repository**
+```sh
+git clone https://github.com/your-username/UniCycle.git
+cd UniCycle
+```
+
+### **2️⃣ Open the Project in VS Code**
+
+### **3️⃣ Run the Frontend**
+```sh
+cd frontend
+npm install
+npm start
+```
+
+### **4️⃣ Run the Backend**
+```sh
+cd backend
+npm install
+npm start
+```
+
+The application will be available at `http://localhost:3000`.
+
+---
+
+🚀 **UniCycle - Empowering Students, Promoting Sustainability!**
+
